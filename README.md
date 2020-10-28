@@ -55,3 +55,32 @@ https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-as
 https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
 
 
+## Personas
+
+- 1980 erschienen als Pukman
+- "old fashioned", älteres & bekanntes Spielkonzept
+- 2-3 Stück
+- kostenloses Spiel
+
+## User Stories
+
+- Anfang/Ende/Ablauf des Spiels
+- Tot, Leben, Rest, Schaden?
+- Gameplay?
+
+## Storyboards
+
+Screenshots von:
+- Pacman (Grundstruktur)
+- SCP Conaintment Breach (Horror / Gegner / Tasks)
+- Alien Isolation (Horror / Atmosphäre)
+- (Slenderman) (Horror / Tasks)
+- (Among Us) (Tasks)
+
+## Requirements
+
+- keine Steuerung, HTC Vive
+- Problem: User läuft in Wand, User verlässt Spielfeld
+- Verhaltensweisen die von uns Abgefangen werden müssen?
+- Audiofeedback (Horrorsounds falls Geist in der Nähe?)
+- Visuelles Feedback (z.B. wie Slenderman) --> roter Schleier?
