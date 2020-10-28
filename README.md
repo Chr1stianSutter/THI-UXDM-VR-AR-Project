@@ -47,3 +47,11 @@ Project for the THI UXD Master VR/AR course
 - Alien Isolation (Horror / Atmosphäre)
 - (Slenderman) (Horror / Tasks)
 - (Among Us) (Tasks)
+
+## Asset Links
+
+https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v2-0-86679
+
+https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
+
+
