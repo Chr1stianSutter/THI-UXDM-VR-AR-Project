@@ -83,6 +83,8 @@ Attribute der Personas:
 - Pain Points
 - Motivation
 
+Persona 1 - John Lee:
+![Persona 1 - John Lee](https://s12.directupload.net/images/201029/gy6sbnqj.png)
 
 ## User Stories
 
