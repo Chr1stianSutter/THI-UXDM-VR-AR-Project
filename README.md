@@ -86,6 +86,9 @@ Attribute der Personas:
 Persona 1 - John Lee:
 ![Persona 1 - John Lee](https://s12.directupload.net/images/201029/gy6sbnqj.png)
 
+Persona 2 - Alice Nguyen:
+![Persona 2 - Alice Nguyen](https://s12.directupload.net/images/201029/cftysast.png)
+
 ## User Stories
 
 Notizen:
