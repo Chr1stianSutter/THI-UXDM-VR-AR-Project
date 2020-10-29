@@ -94,10 +94,10 @@ Notizen:
 ## Storyboards
 
 Screenshots als Beispiele von:
-- Pacman (Grundstruktur)
-- SCP Conaintment Breach (Horror / Gegner / Tasks)
+- ~~Pacman (Grundstruktur)~~
+- ~~SCP Conaintment Breach (Horror / Gegner / Tasks)~~
 - Alien Isolation (Horror / Atmosphäre)
-- Slenderman (Horror / Tasks)
+- ~~Slenderman (Horror / Tasks)~~
 - Among Us (Tasks)
 
 Moodboard 1 - Pac Man:
