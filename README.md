@@ -104,7 +104,11 @@ Moodboard 1 - Pac Man:
 ![Moodboard 1 - Pac Man](https://s12.directupload.net/images/201029/2m6a98ps.png)
 
 Moodboard 2 - SCP Conaintment Breach:
-![oodboard 2 - SCP Conaintment Breach](https://s12.directupload.net/images/201029/zcultteq.png)
+![Moodboard 2 - SCP Conaintment Breach](https://s12.directupload.net/images/201029/zcultteq.png)
+
+Moodboard 3 - Slenderman:
+![Moodboard 3 - Slenderman](https://s12.directupload.net/images/201029/hgptkmjb.png)
+
 
 ## Requirements
 
