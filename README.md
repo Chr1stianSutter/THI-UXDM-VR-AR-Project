@@ -54,6 +54,11 @@ https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-as
 
 https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
 
+## FYI Links
+
+https://veer.tv/videos/pac-man-360-vr-must-try-98341
+https://www.youtube.com/watch?v=E2JVzioS1Fc
+
 
 ## Personas
 
@@ -62,6 +67,21 @@ Notizen:
 - "old fashioned", älteres & bekanntes Spielkonzept
 - 2-3 Stück
 - kostenloses Spiel
+
+Attribute der Personas:
+- Name
+- Age
+- Profession
+- Status
+- Location
+- Statement
+- Personality
+- About
+- Goals
+- Needs
+- Pain Points
+- Motivation
+
 
 ## User Stories
 
@@ -76,8 +96,8 @@ Screenshots als Beispiele von:
 - Pacman (Grundstruktur)
 - SCP Conaintment Breach (Horror / Gegner / Tasks)
 - Alien Isolation (Horror / Atmosphäre)
-- (Slenderman) (Horror / Tasks)
-- (Among Us) (Tasks)
+- Slenderman (Horror / Tasks)
+- Among Us (Tasks)
 
 ## Requirements
 
