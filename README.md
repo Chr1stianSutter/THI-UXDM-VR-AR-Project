@@ -57,6 +57,7 @@ https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
 
 ## Personas
 
+Notizen:
 - 1980 erschienen als Pukman
 - "old fashioned", älteres & bekanntes Spielkonzept
 - 2-3 Stück
@@ -64,13 +65,14 @@ https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
 
 ## User Stories
 
+Notizen:
 - Anfang/Ende/Ablauf des Spiels
 - Tot, Leben, Rest, Schaden?
 - Gameplay?
 
 ## Storyboards
 
-Screenshots von:
+Screenshots als Beispiele von:
 - Pacman (Grundstruktur)
 - SCP Conaintment Breach (Horror / Gegner / Tasks)
 - Alien Isolation (Horror / Atmosphäre)
@@ -79,8 +81,9 @@ Screenshots von:
 
 ## Requirements
 
+Notizen:
 - keine Steuerung, HTC Vive
-- Problem: User läuft in Wand, User verlässt Spielfeld
-- Verhaltensweisen die von uns Abgefangen werden müssen?
-- Audiofeedback (Horrorsounds falls Geist in der Nähe?)
-- Visuelles Feedback (z.B. wie Slenderman) --> roter Schleier?
+- Probleme: User läuft in die Wand oder der User verlässt das Spielfeld
+- Gibt es Verhaltensweisen die von uns Abgefangen werden müssen?
+- Ist ein Audiofeedback (z.B. Horrorsounds: falls Geister in der Nähe sind) für uns notwendig?
+- Welches visuelles Feedback (z.B. wie Slenderman --> roter Schleier) wird bei unserem Konzept benötigt?
