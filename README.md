@@ -101,7 +101,7 @@ Screenshots als Beispiele von:
 - Among Us (Tasks)
 
 Moodboard 1 Pac Man:
-![Moodboard 1 Pac Man](https://ibb.co/vk5MbDq)
+![Moodboard1](https://ibb.co/vk5MbDq)
 
 ## Requirements
 
