@@ -101,7 +101,7 @@ Screenshots als Beispiele von:
 - Among Us (Tasks)
 
 Moodboard 1 Pac Man:
-![screenshot der wikipedia](bilder/screenshot_wikipedia.png)
+![screenshot der wikipedia](https://s12.directupload.net/images/201029/2m6a98ps.png)
 
 ## Requirements
 
