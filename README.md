@@ -16,7 +16,7 @@ Project for the THI UXD Master VR/AR course
 
 
 
-
+## Idea
 ## VR GAME: First-Person Pacman**
 ![Pacman](https://katzlberger.ai/wp-content/uploads/2020/05/pacman-screen.jpg)
 
