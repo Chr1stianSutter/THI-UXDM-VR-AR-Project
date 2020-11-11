@@ -7,7 +7,7 @@ Project for the THI UXD Master VR/AR course
 	Experience in VR/AR:
 
 	Name: Christian Sutter
-	Bachelor:
+	Bachelor: Ravensburg
 	Experience in VR/AR:
 
 	Name: Elias Kwaka
