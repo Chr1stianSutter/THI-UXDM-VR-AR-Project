@@ -99,10 +99,10 @@ Attribute der Personas:
 - Motivation
 
 Persona 1 - John Lee:
-![Persona 1 - John Lee](https://s12.directupload.net/images/201029/gy6sbnqj.png)
+![Persona 1 - John Lee](https://raw.githubusercontent.com/Chr1stianSutter/THI-UXDM-VR-AR-Project/main/Persona%20Alice%20Nguyen.png)
 
 Persona 2 - Alice Nguyen:
-![Persona 2 - Alice Nguyen](https://s12.directupload.net/images/201029/cftysast.png)
+![Persona 2 - Alice Nguyen](https://raw.githubusercontent.com/Chr1stianSutter/THI-UXDM-VR-AR-Project/main/Persona%20John%20Lee.png)
 
 ## User Stories
 
