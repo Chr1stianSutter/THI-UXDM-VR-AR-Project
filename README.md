@@ -121,13 +121,13 @@ Screenshots als Beispiele von:
 - Among Us (Tasks)
 
 Moodboard 1 - Pac Man:
-![Moodboard 1 - Pac Man](https://s12.directupload.net/images/201029/2m6a98ps.png)
+![Moodboard 1 - Pac Man](https://raw.githubusercontent.com/Chr1stianSutter/THI-UXDM-VR-AR-Project/main/Moodboard%201%20Pac%20Man.png)
 
 Moodboard 2 - SCP Conaintment Breach:
-![Moodboard 2 - SCP Conaintment Breach](https://s12.directupload.net/images/201029/zcultteq.png)
+![Moodboard 2 - SCP Conaintment Breach](https://raw.githubusercontent.com/Chr1stianSutter/THI-UXDM-VR-AR-Project/main/Moodboard%202%20SCP.png)
 
 Moodboard 3 - Slenderman:
-![Moodboard 3 - Slenderman](https://s12.directupload.net/images/201029/hgptkmjb.png)
+![Moodboard 3 - Slenderman](https://raw.githubusercontent.com/Chr1stianSutter/THI-UXDM-VR-AR-Project/main/Moodboard%203%20Slenderman.png)
 
 
 ## Requirements
