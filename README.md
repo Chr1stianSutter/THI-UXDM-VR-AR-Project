@@ -1,6 +1,20 @@
 # THI-UXDM-VR-AR-Project
 Project for the THI UXD Master VR/AR course
 
+## Members
+Name: Christian Sutter
+Bachelor:
+Experience in VR/AR:
+
+Name: Kathi
+Bachelor:
+Experience in VR/AR:
+
+Name: Elias Kwaka
+Bachelor: UXD at THI
+Experience in VR/AR: Not much, just from the bachelor VR/AR lecture
+
+
 ![Pacman](https://katzlberger.ai/wp-content/uploads/2020/05/pacman-screen.jpg)
 
 **VR GAME: First-Person Pacman**
