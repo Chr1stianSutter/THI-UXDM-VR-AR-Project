@@ -15,4 +15,12 @@ public class pickUpController : MonoBehaviour
          other.gameObject.SetActive(false);
      }
  }
+
+ void Update()
+ {
+   if (score == 130) {
+       Debug.Log("YOU WIN !!!");
+      UnityEditor.EditorApplication.isPlaying = false;
+   }
+ }
 }
