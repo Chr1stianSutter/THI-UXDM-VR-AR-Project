@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.p4cm4nvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\vr\\THI-UXDM-VR-AR-Project\\P4CM4N-VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "P4CM4N-VR [Testing]"
+        }
+      }
+    }
+  ]
+}
