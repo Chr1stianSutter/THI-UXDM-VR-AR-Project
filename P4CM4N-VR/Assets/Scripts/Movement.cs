@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
+
 public class Movement : MonoBehaviour
 {
     private Vector2 trackpad;
     private float Direction;
     private Vector3 moveDirection;
-
+    public SteamVR_Action_Vector2 MovementAxis;
 
     public SteamVR_Input_Sources Hand;//Set Hand To Get Input From
     public float speed;
@@ -29,6 +30,8 @@ public class Movement : MonoBehaviour
         {//make sure the touch isn't in the deadzone and we aren't going to fast.
             GetComponent <Rigidbody>().AddForce(moveDirection * 30);
         }
+
+        Debug.Log(trackpad);
     }
     public static float Angle(Vector2 p_vector2)
     {
@@ -43,7 +46,10 @@ public class Movement : MonoBehaviour
     }
     private void updateInput()
     {
-       // trackpad = SteamVR_Actions._default.MovementAxis.GetAxis(Hand);
-      
+        //trackpad = SteamVR_Actions._default.MovementAxis.GetAxis(Hand);
+        //trackpad = SteamVR_Input._default.inActions.MovementAxis.GetAxis(Hand);
+        trackpad = MovementAxis.GetAxis(Hand);
+        //trackpad =  SteamVR_Actions.default_MovementAxis.GetAxis(SteamVR_Input_Sources.Any);
+        //trackpad = SteamVR_Actions.default_MovementAxis.GetAxis(Hand);
     }
 }

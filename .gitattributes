@@ -1,2 +1,25 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.mov
+*.mp4
+*.mp3
+*.flv
+*.fla
+*.swf
+*.gz
+*.zip
+*.7z
+*.ttf
+*.eot
+*.woff
+*.pyc
+*.pdf
+*.ez
+*.bz2
+*.swp
