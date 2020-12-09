@@ -246,7 +246,7 @@
             {
                "inputs" : {
                   "position" : {
-                     "output" : "/actions/default/in/movementaxis"
+                     "output" : "/actions/default/in/touchpadposition"
                   }
                },
                "mode" : "trackpad",
@@ -255,7 +255,7 @@
             {
                "inputs" : {
                   "position" : {
-                     "output" : "/actions/default/in/movementaxis"
+                     "output" : "/actions/default/in/touchpadposition"
                   }
                },
                "mode" : "trackpad",
