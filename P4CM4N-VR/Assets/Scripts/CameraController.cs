@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-   public float Sensitivity = 0.9f;
+   public float Sensitivity;
 
 	[Range(0,100)]
-	public float Speed = 20f;
+	public float Speed;
 	[Range(0,100)]
-	public float RotationSpeed = 7f;
+	public float RotationSpeed;
 	public bool LockMouse;
 
 	private float Xaxis;
@@ -66,8 +66,8 @@ public class CameraController : MonoBehaviour
             AdvanceSpeed = 1;
         }
 
-       transform.Translate(AdvanceSpeed * Speed * Input.GetAxis("Horizontal") * Time.deltaTime,0,Input.GetAxis("Vertical"));
-       
+       transform.Translate(Speed * Input.GetAxis("Horizontal") * Time.deltaTime,0,Speed * Input.GetAxis("Vertical")* Time.deltaTime);
+
 
        Vector3 stayHorizontal = transform.eulerAngles;
        stayHorizontal.z = 0f;
