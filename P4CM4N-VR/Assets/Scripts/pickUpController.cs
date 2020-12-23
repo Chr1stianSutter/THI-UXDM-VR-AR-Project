@@ -22,7 +22,7 @@ public class pickUpController : MonoBehaviour
 
  void Update()
  {
-   if (score == 130) {
+   if (score == 960) {
        Debug.Log("YOU WIN !!!");
       UnityEditor.EditorApplication.isPlaying = false;
    }
