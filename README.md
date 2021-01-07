@@ -63,11 +63,14 @@ Project for the THI UXD Master VR/AR course
 - (Slenderman) (Horror / Tasks)
 - (Among Us) (Tasks)
 
-## Asset Links
+## Free Asset Links that have been butchered in the creation of this game (state of 07.01.2021)
 
-https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v2-0-86679
+https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732
 
-https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
+https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611
+
+https://assetstore.unity.com/packages/tools/input-management/first-person-all-in-one-135316
+
 
 ## FYI Links
 
@@ -121,8 +124,13 @@ Moodboard 3 - Slenderman:
 ### Asset Store scouting: What's free & what's fun/useful
 Result: A few interesting map kits:
 - Kit 1: Tech-y space corridor kit #1
+https://assetstore.unity.com/packages/3d/environments/3d-scifi-kit-starter-kit-92152
+
 - Kit 2: Tech-y space corridor kit #2
+https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811
+
 - Kit 3: Techy space corridor kit #3
+https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732
 
 We chose a space-based kit to fulfill the tech-y pac-man component (see moodboard 1)
 The first kit we chose had lighting/baking issues, so we opted for a different one that was visually quite impressive. Sadly, this one had too many vertices and the resulting framerate dropped way below 60 (5-15 at times) so we opted for kit #3. That resulted in an immproved framerate of over 70+ fps (often times even 150-250fps).
