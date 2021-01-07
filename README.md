@@ -164,18 +164,21 @@ Result: A few interesting map kits:
 We chose a space-based kit to fulfill the tech-y pac-man component (see moodboard 1)
 The first kit we chose had too many vertices and the resulting framerate dropped way below 60 so we opted for kit 3. That resulted in an immproved framerate of over 70+ fps.
 
-# Map Building and Core Interactions
+### Map Building and Core Interactions
 With that we built our dummy-map in form of an "8". We used this as environment to model all further components and interactions, most notably NavMesh and NavEntities. After Player-Enemy and Player-PickUp interactions proved to work, we enlarged the map to the full size of the classical PacMan map.
 
-# Hardware
+### Hardware
 
-# Enemy Scripts & Movemment
+### Enemy Scripts & Movemment
 
-# Player Scripts 
+### Player Scripts & Movement
+The Player sports an HTC Vive movement script, as well as a WASD+Mouse debug movement script to allow for easy & safe work from home. The HTC Vive Movement Script works by translating Touchpad input into player movement, so the player gets a more natural, joystick-like way of mving around. At first we wanted our player to PHYSICALLY walk within a track environment to maximize presence and immersion, but since tracked spaces are generally small, lab-time was limited - and frankly, the ability to physically run from a pursuer in VR (while technically blind) – made us decide to opt for a more "safe" way of in-game movement. We deliberately decided against trigger-based. teleport movement, since a pursuit-style gamme works better with consistent movement: We wouldn't want the player to be able to cheat by teleporting through and behind the enemies, or dirupt the flow of the pursuit by having the player "walk" in increments.
 
-# PickUp Scripts & Behaviour
+### PickUp Scripts & Behaviour
+The Pickups rotate and float for additional visibility & engagement. 
+They react to intersections with the player collider by playing a sound file, upping a PlayerCount variable by 10, and disabling themselves. Over 90 Pickups are placed in the full-sized map version!
 
-# Atmosphere & Misc.
+### Atmosphere & Misc.
 As of the 07.01.2021 this department still feels lackin in our eyes. Good horror is always hard to craft, and to get more of moodboards 2 & 3 into our game, we will focus on multiple facets over the next few days:
 
 Audio: 
@@ -188,14 +191,14 @@ If possible we'd like to incorporate some dust/particles and/or smoke to restric
 Lighting:
 As of now, the lighting is still very bright and testing / debuggin friendly. This of course shall change! Darker more menacing surrounding as well as eerily bright light should make for a few shocking encounters! :)
 
-# Usability testing ( or the lack of it :D )
+### Usability testing ( or the lack of it :D )
 
 Lockdown prevented testing with external users.
 
 On the date of testing the AR movement script was yet to be figured out – after we DID manage to get it running, someone took off with the HTC vive, and the replacement console had hardware troubles (sensors didnt recognize controllers) that even extensive troubleshooting with Tamara could not solve. It SHOULD work fine though – just any gamplay testing after that was done with WASD + Mouse due to lockdown.
 
 
-# To Be Done
+### To Be Done
 - Extend enemy behaviour range + "quirks"
 - Minimap
 - Ghost Model (Polygon Count too high & needs mesh animation)
