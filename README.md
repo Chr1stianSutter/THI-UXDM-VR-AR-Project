@@ -34,7 +34,7 @@ Project for the THI UXD Master VR/AR course
 - Level-End (?) 
 	- Teleporter up/down? 
 	- Stairs?
-	- Door / "Wall of Mist?" ➤ Ungewissheit/Überwindung
+	- Door / "Wall of Mist?" ➤ Uncertainty / Fear of the unknown
 - Heavy automatic doors that open slowly (create time pressure)
 
 ## Player
@@ -104,6 +104,7 @@ Since game-users are "players" and a player's "journey"/"story" is conveyed via 
 - Win-Condition (Picking up all / a certain number of pickups)
 - Lose-Condition (Contact with enemy)
 - Entering of "Win-Zone" (teleporter / door / stairs / lift or similar) 
+
 ## Storyboards
 
 Moodboard 1 - Pac Man:
@@ -114,16 +115,6 @@ Moodboard 2 - SCP Containment Breach:
 
 Moodboard 3 - Slenderman:
 ![Moodboard 3 - Slenderman](https://raw.githubusercontent.com/Chr1stianSutter/THI-UXDM-VR-AR-Project/main/Moodboard%203%20Slenderman.png)
-
-
-## Requirements
-
-Notizen:
-- keine Steuerung, HTC Vive
-- Probleme: User läuft in die Wand oder der User verlässt das Spielfeld
-- Gibt es Verhaltensweisen die von uns Abgefangen werden müssen?
-- Ist ein Audiofeedback (z.B. Horrorsounds: falls Geister in der Nähe sind) für uns notwendig?
-- Welches visuelles Feedback (z.B. wie Slenderman --> roter Schleier) wird bei unserem Konzept benötigt?
 
 ## Process
 
