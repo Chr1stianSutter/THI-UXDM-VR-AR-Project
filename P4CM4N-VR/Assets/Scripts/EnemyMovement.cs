@@ -39,9 +39,12 @@ public class EnemyMovement : MonoBehaviour
 
     if (Physics.Raycast (transform.position, direction, out hit, 1000) &&
     playerDist < perceptionDistance )
+
     { if (hit.collider.gameObject.CompareTag("Player"))
       {
         seeingPlayer = true;
+        Debug.Log("I SEE YOUUU!!!!");
+        Debug.DrawRay(transform.position, transform.forward, Color.green);
       }
       else
       {
@@ -103,7 +106,7 @@ public class EnemyMovement : MonoBehaviour
   }
 
   void chase () {
-    navMesh.acceleration = 5;
+    navMesh.acceleration = 7;
     navMesh.speed = chaseVelocity;
     navMesh.destination = Player.position;
   }
