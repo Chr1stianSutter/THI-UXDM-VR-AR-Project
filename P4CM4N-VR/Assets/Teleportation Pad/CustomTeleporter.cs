@@ -20,7 +20,7 @@ public class CustomTeleporter : MonoBehaviour
 	//one or more destination pads
 	public Transform[] destinationPad;
 	//height offset
-	public float teleportationHeightOffset = 1;
+	public float teleportationHeightOffset;
 	//a private float counting down the time
 	private float curTeleportTime;
 	//private bool checking if you entered the trigger
@@ -53,6 +53,7 @@ public class CustomTeleporter : MonoBehaviour
 		if(inside)
 		{
 			//if that object hasnt just arrived from another pad, teleport it
+			Debug.Log("arrived");
 			if(!arrived && teleportPadOn)
 			Teleport();
 		}
@@ -61,6 +62,7 @@ public class CustomTeleporter : MonoBehaviour
 	void Teleport()
 	{
 		//if you chose to teleport instantly
+		Debug.Log("teleport");
 		if(instantTeleport)
 		{
 			//if you chose instant + random teleport, teleport to a random pad from the array
@@ -222,7 +224,7 @@ public class CustomTeleporter : MonoBehaviour
 		//////////////if you set a tag for the entering pad, you should also set it for the exiting pad////////
 		//when an object exists the trigger
 		//if you set a tag in the inspector, check if an object has that tag
-		//otherwise the pad will register any object as the one leaving 
+		//otherwise the pad will register any object as the one leaving
 		if(objectTag != "")
 		{
 			//if the objects tag is the same as the one allowed in the inspector
