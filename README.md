@@ -195,11 +195,11 @@ But after implementing the base functionalities and playtesting amongst ourselve
 - Ghost Model (Polygon Count too high & needs mesh animation)
 - small (online) user test(s) and feedback loop(s)
 
-- Misc. Containers and elements that make the corridors more believable 
+- [DONE] Misc. Containers and elements that make the corridors more believable 
 - background music (switch on enemy aggro??)
 - Enemy proximity cues 
 - add hand models for controllers
 
-- add teleporters
+- [DONE] add teleporters
 - add step sound
 - pause/start menu / ui 
